@@ -17,6 +17,7 @@ Ubuntu 22.04 dev environment setup steps, packages and software to install:
 - Kubernetes
 - GoLand
 - Recursive CLI search
+- inshellisense
 
 ## Productivity Software
 - Lightshot
